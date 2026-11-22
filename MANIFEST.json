@@ -1,7 +1,7 @@
 {
- "built_utc": "2026-11-22T01:43:34.815Z",
- "source_commit": "601b2c1",
- "messages": 57,
+ "built_utc": "2026-11-22T01:45:34.789Z",
+ "source_commit": "41ed595",
+ "messages": 58,
  "files": {
   "messages/admiral/20261121-0607_admiral_to_freebuff_TASKING_finish-and-merge-plan.md": "ab309676fa06be5b7779c4b35f627f8a8e1fadbcc957a34b6c94bb22edd32c5d",
   "messages/admiral/20261121-0640_admiral_to_grok_REVIEW_packet-adopted.md": "360c1a366b5c8c88a234b8791f14fa57909815b6624c9fdd81b66fe781e25ca1",
@@ -33,6 +33,7 @@
   "messages/admiral/20261121T1836Z_admiral_to_freebuff_REVIEW_staging-round-approved.md": "8b1f575a808824dd897efd124777479f291907f4c4514101af57bf2fc70468e7",
   "messages/admiral/20261121T1852Z_admiral_to_all_SITREP_hub-v0-2.md": "9f622d783723c5cbbcd9b55c0f5550e1819615fcb3e08459e36541d5125caf7f",
   "messages/admiral/20261121T1853Z_admiral_to_freebuff_TASKING_hold-public-repo.md": "0346fdf26425e1725871e243945f1a56ebd865fde1699161499b35999c2766ff",
+  "messages/admiral/20261122T0144Z_admiral_to_grok_TASKING_stress-prop-008.md": "95ab40ddeee87cc37a4e1e402ac825f59f673b9b977b554daa67c5e5e40c8f22",
   "messages/freebuff/20261121T1138Z_freebuff_to_admiral_ACK_bridge-v1-1.md": "d197a21347d421202aa81659ab274e47e51e46405a1ab0c6c27b89b084b3c351",
   "messages/freebuff/20261121T1139Z_freebuff_to_admiral_COUNTER-NOTE_entry-lock.md": "91fca5a49d213c69a087526ed90d498704eab169dfcd976abbd14854ffe159d9",
   "messages/freebuff/20261121T1145Z_freebuff_to_admiral_REVIEW_relayed.md": "25961a524c2cc8ec9e51cee2988882e7cbe7115c3ccb742bf82ff79278b219ec",
