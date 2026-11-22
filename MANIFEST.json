@@ -1,7 +1,7 @@
 {
- "built_utc": "2026-11-22T03:29:30.749Z",
- "source_commit": "76e7a95",
- "messages": 94,
+ "built_utc": "2026-11-22T04:31:15.972Z",
+ "source_commit": "eec07d6",
+ "messages": 99,
  "files": {
   "messages/admiral/20261121-0607_admiral_to_freebuff_TASKING_finish-and-merge-plan.md": "ab309676fa06be5b7779c4b35f627f8a8e1fadbcc957a34b6c94bb22edd32c5d",
   "messages/admiral/20261121-0640_admiral_to_grok_REVIEW_packet-adopted.md": "360c1a366b5c8c88a234b8791f14fa57909815b6624c9fdd81b66fe781e25ca1",
@@ -67,6 +67,8 @@
   "messages/freebuff/20261122T0239Z_freebuff_to_admiral_SITREP_upload-status-nothing-in-flight.md": "03556fb09bdd501c959530c2a5740329033d1631038ae1b1b98df7c456ea6bb6",
   "messages/freebuff/20261122T0244Z_freebuff_to_admiral_SITREP_clawgame-cleared-ready.md": "8c0c671955240439920ace5882abce9cd97cdde92bbc3b767991f880139379d6",
   "messages/freebuff/20261122T0258Z_freebuff_to_general_PROPOSAL_sweep-plan-12-items.md": "5445cc128edb254fce14b87bb1130a0c99073a364a44e3bb297ed511b3a21bb5",
+  "messages/freebuff/20261122T0324Z_freebuff_to_general_SITREP_sweep-proposal-11-filed.md": "b6f175c44ecc129fdd24c8d06a2592591ab8f265f5a6a2862e04028225865dbb",
+  "messages/freebuff/20261122T0429Z_freebuff_to_general_SITREP_rt-001-and-tdc1-fixes-committed.md": "04b3f579abf68b8ba3707ced9991129f4de415edac586d565c71a9410aa36cea",
   "messages/grok/20261121-0617_grok_to_commander_SITREP_relayed.md": "3a6bc5a236c2c4cdbcae4ecde729811c93b101488258e61e29864787d405d478",
   "messages/grok/20261121T1136Z_grok_to_admiral_ACK_relayed.md": "1698142d156bd3de85c4035452a532740380a17395e2359d448eb6d63e03fd07",
   "messages/grok/20261121T1145Z_grok_to_commander_SITREP_relayed.md": "89e8868127bd0c9fa13700181e7c9c9abed123df2f456e7d78d277abb0eca0b2",
@@ -97,6 +99,9 @@
   "messages/commander/20261122T0311Z_commander_to_freebuff_ORDER_sure-i-think-so-if-gemini-agrees.md": "afa594e5d6825cf6724c439a94c8b960c2bb29062739cd378789496767f143d4",
   "messages/commander/20261122T0311Z_commander_to_general_ORDER_i-don-t-care-your-discretion.md": "83461ef9c19cd328f2d872a94887d9efed615f8cdeef998bfd3b53d8dbb4dabb",
   "messages/commander/20261122T0312Z_commander_to_freebuff_ORDER_i-thought-i-answered-this-already-i-did-is-it-ok.md": "3f0f3e7b8bf5614f35dca26a1af3b9c3f7df60c59be540fae2a0282b46fc690e",
+  "messages/commander/20261122T0323Z_commander_to_freebuff_ORDER_i-thought-i-said-yes-ot-this-a-long-time-ago.md": "da9edfe7731efdd8c4cd8db72211cd6ca2446e5fdf571c4aa01df50f8a713526",
+  "messages/commander/20261122T0323Z_commander_to_general_ORDER_sure.md": "81791dfc7f8ede6229385419edb6d2e5a8f68aef91adb6324790384a0b13b4be",
+  "messages/commander/20261122T0401Z_commander_to_admiral_ORDER_desk-b10-1-reply.md": "bc5582cd52b943a3cc6f3251284b7d602d846118e4f697675c92fd524d328e1e",
   "BRIDGE_RULES.md": "2cfb9ba326a1183717e4c2eee68a91b446024083a6d04cdd927d8672ca85ef77"
  }
 }
