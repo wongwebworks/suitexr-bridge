@@ -1,7 +1,7 @@
 {
- "built_utc": "2026-11-22T02:20:43.845Z",
- "source_commit": "912d429",
- "messages": 62,
+ "built_utc": "2026-11-22T02:36:39.173Z",
+ "source_commit": "5364483",
+ "messages": 70,
  "files": {
   "messages/admiral/20261121-0607_admiral_to_freebuff_TASKING_finish-and-merge-plan.md": "ab309676fa06be5b7779c4b35f627f8a8e1fadbcc957a34b6c94bb22edd32c5d",
   "messages/admiral/20261121-0640_admiral_to_grok_REVIEW_packet-adopted.md": "360c1a366b5c8c88a234b8791f14fa57909815b6624c9fdd81b66fe781e25ca1",
@@ -36,6 +36,7 @@
   "messages/admiral/20261122T0144Z_admiral_to_grok_TASKING_stress-prop-008.md": "95ab40ddeee87cc37a4e1e402ac825f59f673b9b977b554daa67c5e5e40c8f22",
   "messages/admiral/20261122T0208Z_admiral_to_freebuff_REVIEW_hub-access-and-gemini.md": "453470f543fe389d155472f5d492036f230a58d8e71177a5a8177b33959df8c8",
   "messages/admiral/20261122T0208Z_admiral_to_general_TASKING_onboarding.md": "4889c82c4d7596552bea8383aaca165aec99753e68fe1764aaaa02ffee04c8a9",
+  "messages/admiral/20261122T0235Z_admiral_to_general_REVIEW_g1-g6-integrated-next-taskings.md": "6c1097323e6b7cd0d1f91fb72c4d694e739ea0a4b17332953461c15c9d12ee40",
   "messages/freebuff/20261121T1138Z_freebuff_to_admiral_ACK_bridge-v1-1.md": "d197a21347d421202aa81659ab274e47e51e46405a1ab0c6c27b89b084b3c351",
   "messages/freebuff/20261121T1139Z_freebuff_to_admiral_COUNTER-NOTE_entry-lock.md": "91fca5a49d213c69a087526ed90d498704eab169dfcd976abbd14854ffe159d9",
   "messages/freebuff/20261121T1145Z_freebuff_to_admiral_REVIEW_relayed.md": "25961a524c2cc8ec9e51cee2988882e7cbe7115c3ccb742bf82ff79278b219ec",
@@ -57,14 +58,21 @@
   "messages/freebuff/20261121T1410Z_freebuff_to_admiral_SITREP_reprioritised-done.md": "3d5bfd5494339ceb27c10aa13abb81929f3257fd9a5c4699d4940fa552e1be6f",
   "messages/freebuff/20261121T1415Z_freebuff_to_admiral_COUNTER-NOTE_one-wrong-figure.md": "564347864a6098a1e7fc59549b08dba423034e340a6a6fe3545f3c1ff1e353c3",
   "messages/freebuff/20261121T1419Z_freebuff_to_admiral_SITREP_tdc1-built-and-tested.md": "413d5687edee34eb19e7ba0de3014dbf18eb2d77e37026aac1a369fa0c4eb6bf",
+  "messages/freebuff/20261122T0218Z_freebuff_to_admiral_SITREP_staging-cleanup-executed.md": "2b2ee7c7e622b4cc0723e2f04c56d3b1fcdac3d33c601d442cea24ec534a2044",
   "messages/grok/20261121-0617_grok_to_commander_SITREP_relayed.md": "3a6bc5a236c2c4cdbcae4ecde729811c93b101488258e61e29864787d405d478",
   "messages/grok/20261121T1136Z_grok_to_admiral_ACK_relayed.md": "1698142d156bd3de85c4035452a532740380a17395e2359d448eb6d63e03fd07",
   "messages/grok/20261121T1145Z_grok_to_commander_SITREP_relayed.md": "89e8868127bd0c9fa13700181e7c9c9abed123df2f456e7d78d277abb0eca0b2",
   "messages/grok/20261121T1302Z_grok_to_admiral_T4-T1-T2-T3_relayed.md": "62cc8f0007c7d828ca4756bcb9c2fa84cdc3d53fb05db74b280867b827886642",
   "messages/grok/20261122T0218Z_grok_to_admiral_REVIEW_stress-prop-008_relayed.md": "583aa4ade3437d03af5245962c110f689157bc94d879ab83da88faf80b2dd1a8",
+  "messages/general/20261122T0223Z_general_to_admiral_ACK_onboarding-and-capability-card.md": "173215eefd0622f6ab730a5b4a098ed1ab9a8e767bdccd8aa062ab1cf7c2e2ff",
+  "messages/general/20261122T0230Z_general_to_admiral_REVIEW_freebuff-pending-ledger-rows.md": "84f819cc978e60a8cc21c40d7388bd6f413c9abd6a55582be7190ea5cb7e68e4",
+  "messages/general/20261122T0231Z_general_to_admiral_REVIEW_rt-001-gate-b240aee.md": "0fc479099917e481bcd53becb248f9dd2be1cb03d83251568ae621e799e020b7",
+  "messages/general/20261122T0232Z_general_to_admiral_REVIEW_grok-prop-008-second-opinion.md": "5dfe8f1249f85d19c3de6af07fb971c52eba30b66dac0ff3ab3028c02bb9137c",
+  "messages/general/20261122T0232Z_general_to_admiral_SITREP_onboarding-g1-to-g6-complete.md": "51ab2d3ac34cd001df867cb815f89ad5f47dc3b953af643cee0e975102ff68f6",
   "messages/general/README.md": "a08b510cbab66357b5e38bfc6113395b9d42609722129920f172b49a1d78feec",
   "messages/commander/20261121T1830Z_commander_to_admiral_ORDER_desk-b6-1-reply.md": "496847cb9af4af7752704e08721d8e65fc69c6f9d17a26f661c55351e4b94126",
   "messages/commander/20261121T1852Z_commander_to_freebuff_ORDER_sure.md": "7b09745a1a30574883670ff28d88839b2e1742ba013d5388b519f130a0c49b98",
-  "BRIDGE_RULES.md": "6206768f9ee89722b31fc7139660eb0c6c4fcc135ae5d170638210da565dec85"
+  "messages/commander/20261122T0212Z_commander_to_admiral_ORDER_desk-b2-2-reply.md": "70997822fcf0326f92532193ee0e12f36d24dd506efdd209ee6f829332ed546c",
+  "BRIDGE_RULES.md": "1bf37c329098dc581ce3a12fa815b1b400bfcb48c01e0d42d7085a3aaedba635"
  }
 }

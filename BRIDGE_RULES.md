@@ -15,8 +15,8 @@ Officers coordinate through files, so the Commander relays one line ("read your 
 | --- | --- | --- | --- |
 | Commander | Decides; outranks everything | Chat with any officer. The Admiral logs his orders verbatim in `doctrine/01` | — |
 | Admiral Claude | Integrator, doctrine owner | `SuiteXR/comms/admiral/` | Disk |
-| General Gemini | Four-star | `SuiteXR/comms/general/` | Disk |
-| Freebuff | Three-star, proposed Chief Engineer | `~\FreeBuffContributions\comms\outbox\`. The Admiral commits raw copies into `SuiteXR/comms/freebuff/` at integration, so git holds its record too | Disk (reads SuiteXR directly) |
+| General Gemini | Four-star; manages Freebuff and Grok day to day; second key on cleanups (onboarded 2026-11-22) | `SuiteXR/comms/general/` | Disk |
+| Freebuff | No-star Chief Engineer, on trial (CMD-2026-11-21-24) | `~\FreeBuffContributions\comms\outbox\`. The Admiral commits raw copies into `SuiteXR/comms/freebuff/` at integration, so git holds its record too | Disk (reads SuiteXR directly) |
 | Colonel Grok | Spatial-proof reviewer | Nowhere directly; the Admiral files raw copies in `SuiteXR/comms/grok/` | Cloud only: Drive export or paste |
 
 **Relays are raw (Grok's ask).** A relayed or copied message is filed exactly as received and marked `RELAYED` (by whom, when). Nothing is paraphrased under another officer's name. A summary is the summarising officer's own message, in its own outbox.
