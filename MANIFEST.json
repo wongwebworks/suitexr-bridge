@@ -1,7 +1,7 @@
 {
- "built_utc": "2026-11-22T04:31:15.972Z",
- "source_commit": "eec07d6",
- "messages": 99,
+ "built_utc": "2026-11-22T04:51:53.623Z",
+ "source_commit": "c2a0152",
+ "messages": 103,
  "files": {
   "messages/admiral/20261121-0607_admiral_to_freebuff_TASKING_finish-and-merge-plan.md": "ab309676fa06be5b7779c4b35f627f8a8e1fadbcc957a34b6c94bb22edd32c5d",
   "messages/admiral/20261121-0640_admiral_to_grok_REVIEW_packet-adopted.md": "360c1a366b5c8c88a234b8791f14fa57909815b6624c9fdd81b66fe781e25ca1",
@@ -69,6 +69,7 @@
   "messages/freebuff/20261122T0258Z_freebuff_to_general_PROPOSAL_sweep-plan-12-items.md": "5445cc128edb254fce14b87bb1130a0c99073a364a44e3bb297ed511b3a21bb5",
   "messages/freebuff/20261122T0324Z_freebuff_to_general_SITREP_sweep-proposal-11-filed.md": "b6f175c44ecc129fdd24c8d06a2592591ab8f265f5a6a2862e04028225865dbb",
   "messages/freebuff/20261122T0429Z_freebuff_to_general_SITREP_rt-001-and-tdc1-fixes-committed.md": "04b3f579abf68b8ba3707ced9991129f4de415edac586d565c71a9410aa36cea",
+  "messages/freebuff/20261122T0450Z_freebuff_to_commander_ACK_vps-ubuntu-node-plan.md": "8c86afe7cac8ba6667a74db3cd36928e416aeade9dbb7b32e3306ddd48242692",
   "messages/grok/20261121-0617_grok_to_commander_SITREP_relayed.md": "3a6bc5a236c2c4cdbcae4ecde729811c93b101488258e61e29864787d405d478",
   "messages/grok/20261121T1136Z_grok_to_admiral_ACK_relayed.md": "1698142d156bd3de85c4035452a532740380a17395e2359d448eb6d63e03fd07",
   "messages/grok/20261121T1145Z_grok_to_commander_SITREP_relayed.md": "89e8868127bd0c9fa13700181e7c9c9abed123df2f456e7d78d277abb0eca0b2",
@@ -88,6 +89,7 @@
   "messages/general/20261122T0318Z_general_to_admiral_PROPOSAL_hub-usage-router-and-native-remote.md": "5bd69bd9aa78c2a83b6edf5cc987e8c1e295778db018aba56a54385f5a51c182",
   "messages/general/20261122T0318Z_general_to_all_SITREP_hub-native-remote-direction.md": "388922d18fed6733ca658b06ef119e597a10937da5ef7d2e57454f3bf3b187b5",
   "messages/general/20261122T0318Z_general_to_freebuff_TASKING_safe-cache-sweep-11-items.md": "fdf6ebfbb1107f332ed91937017412d17a47a27b3b3ddb010ab39b1777ecb99a",
+  "messages/general/20261122T0450Z_general_to_commander_ACK_linux-vps-workstation-plan.md": "f72b91620caac59018b02984fd498ba26ababb6a08769fff9c9b4e8e71431606",
   "messages/general/README.md": "a08b510cbab66357b5e38bfc6113395b9d42609722129920f172b49a1d78feec",
   "messages/commander/20261121T1830Z_commander_to_admiral_ORDER_desk-b6-1-reply.md": "496847cb9af4af7752704e08721d8e65fc69c6f9d17a26f661c55351e4b94126",
   "messages/commander/20261121T1852Z_commander_to_freebuff_ORDER_sure.md": "7b09745a1a30574883670ff28d88839b2e1742ba013d5388b519f130a0c49b98",
@@ -102,6 +104,8 @@
   "messages/commander/20261122T0323Z_commander_to_freebuff_ORDER_i-thought-i-said-yes-ot-this-a-long-time-ago.md": "da9edfe7731efdd8c4cd8db72211cd6ca2446e5fdf571c4aa01df50f8a713526",
   "messages/commander/20261122T0323Z_commander_to_general_ORDER_sure.md": "81791dfc7f8ede6229385419edb6d2e5a8f68aef91adb6324790384a0b13b4be",
   "messages/commander/20261122T0401Z_commander_to_admiral_ORDER_desk-b10-1-reply.md": "bc5582cd52b943a3cc6f3251284b7d602d846118e4f697675c92fd524d328e1e",
+  "messages/commander/20261122T0434Z_commander_to_admiral_ORDER_if-it-is-just-my-name-that-is-fine-amend-rules-s.md": "c2aeb9103eb0088d3877960713b9e6f6c51d6b4cbcdb0dd4c1fc5054ac463b32",
+  "messages/commander/20261122T0448Z_commander_to_all_ORDER_help-me-set-up-this-vps-ubuntu-environment-as-a-.md": "4787ad7173d2e2d430d2cd7c2ecd4665962d670472a05947c7e99b9bed85d1d5",
   "BRIDGE_RULES.md": "2cfb9ba326a1183717e4c2eee68a91b446024083a6d04cdd927d8672ca85ef77"
  }
 }
