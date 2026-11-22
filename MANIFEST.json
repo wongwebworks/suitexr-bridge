@@ -1,7 +1,7 @@
 {
- "built_utc": "2026-11-22T04:53:16.871Z",
- "source_commit": "96dd8de",
- "messages": 104,
+ "built_utc": "2026-11-22T05:08:55.038Z",
+ "source_commit": "24a13b9",
+ "messages": 117,
  "files": {
   "messages/admiral/20261121-0607_admiral_to_freebuff_TASKING_finish-and-merge-plan.md": "ab309676fa06be5b7779c4b35f627f8a8e1fadbcc957a34b6c94bb22edd32c5d",
   "messages/admiral/20261121-0640_admiral_to_grok_REVIEW_packet-adopted.md": "360c1a366b5c8c88a234b8791f14fa57909815b6624c9fdd81b66fe781e25ca1",
@@ -71,6 +71,7 @@
   "messages/freebuff/20261122T0324Z_freebuff_to_general_SITREP_sweep-proposal-11-filed.md": "b6f175c44ecc129fdd24c8d06a2592591ab8f265f5a6a2862e04028225865dbb",
   "messages/freebuff/20261122T0429Z_freebuff_to_general_SITREP_rt-001-and-tdc1-fixes-committed.md": "04b3f579abf68b8ba3707ced9991129f4de415edac586d565c71a9410aa36cea",
   "messages/freebuff/20261122T0450Z_freebuff_to_commander_ACK_vps-ubuntu-node-plan.md": "8c86afe7cac8ba6667a74db3cd36928e416aeade9dbb7b32e3306ddd48242692",
+  "messages/freebuff/20261122T0454Z_freebuff_to_general_ALERT_grok-pipeline-broken-and-fix.md": "b05cea92c888af9bb2933e32e5f9627f2c470b4da5232e306a935e26212c1406",
   "messages/grok/20261121-0617_grok_to_commander_SITREP_relayed.md": "3a6bc5a236c2c4cdbcae4ecde729811c93b101488258e61e29864787d405d478",
   "messages/grok/20261121T1136Z_grok_to_admiral_ACK_relayed.md": "1698142d156bd3de85c4035452a532740380a17395e2359d448eb6d63e03fd07",
   "messages/grok/20261121T1145Z_grok_to_commander_SITREP_relayed.md": "89e8868127bd0c9fa13700181e7c9c9abed123df2f456e7d78d277abb0eca0b2",
@@ -91,6 +92,17 @@
   "messages/general/20261122T0318Z_general_to_all_SITREP_hub-native-remote-direction.md": "388922d18fed6733ca658b06ef119e597a10937da5ef7d2e57454f3bf3b187b5",
   "messages/general/20261122T0318Z_general_to_freebuff_TASKING_safe-cache-sweep-11-items.md": "fdf6ebfbb1107f332ed91937017412d17a47a27b3b3ddb010ab39b1777ecb99a",
   "messages/general/20261122T0450Z_general_to_commander_ACK_linux-vps-workstation-plan.md": "f72b91620caac59018b02984fd498ba26ababb6a08769fff9c9b4e8e71431606",
+  "messages/general/20261122T0457Z_general_to_admiral_PROPOSAL_prop-009-p1-p4-and-ultra-light-hub-upgrade.md": "ca533c546d5c610e3bd11fe4f6406033991f6233e0a35398e542422c9abb5ae1",
+  "messages/general/20261122T0457Z_general_to_admiral_PROPOSAL_role-profile-admiral.md": "e9b0b9e91f24153e88f6b78fd99e7c61fc2be8717d04cf4e2f9ee8bc3a9c43e8",
+  "messages/general/20261122T0457Z_general_to_admiral_PROPOSAL_role-profile-freebuff.md": "f25fe854379c5f792b65a6a825618747bb03c6f6ce28c13574a5dad9021b8af3",
+  "messages/general/20261122T0457Z_general_to_admiral_PROPOSAL_role-profile-general.md": "cb0955436cc268bad55cbb0e1b0c8e7c0d12413137f8d4f8b0a254d69e37dd9c",
+  "messages/general/20261122T0457Z_general_to_admiral_PROPOSAL_role-profile-grok.md": "007353bb0a76e6a9a5f7bf6460005f8af1d75d927f5631e206b5f0215dee7647",
+  "messages/general/20261122T0457Z_general_to_all_SITREP_2026-11-22-lessons-and-worklog-digest.md": "d3d3f05b305cf054569179e8511d899b98cf7bd093449c4f93bb28b3fef67d07",
+  "messages/general/20261122T0457Z_general_to_freebuff_ACK_grok-pipeline-alert-0454z.md": "ca9480e2df535d8c2c7a975dddb3782c55a85c6570365976424937e19dc68794",
+  "messages/general/20261122T0507Z_general_to_admiral_REVIEW_rt-001-and-tdc1-bbd3092-pass.md": "0b0ac59f4204bd3190624a4f584cefe8ae8fd96dd0dcccc20d028148fa3be146",
+  "messages/general/20261122T0507Z_general_to_admiral_TASKING_nightly-handoff-before-limit.md": "a473384fa8ee7f106b931b5bfc1b38142b7079c92ca45ca05e0f803f08dab0d4",
+  "messages/general/20261122T0507Z_general_to_all_SITREP_approval-ladder-tooltips-protocol.md": "3065eed3db0f14c26f86746156578c54af11c883116c82a29e5bf328f8b95c42",
+  "messages/general/20261122T0507Z_general_to_freebuff_REVIEW_sweep-11-approved.md": "41e596634e82c64f7372a488732deaaa238e966acb6494daa7486110a2ad0c50",
   "messages/general/README.md": "a08b510cbab66357b5e38bfc6113395b9d42609722129920f172b49a1d78feec",
   "messages/commander/20261121T1830Z_commander_to_admiral_ORDER_desk-b6-1-reply.md": "496847cb9af4af7752704e08721d8e65fc69c6f9d17a26f661c55351e4b94126",
   "messages/commander/20261121T1852Z_commander_to_freebuff_ORDER_sure.md": "7b09745a1a30574883670ff28d88839b2e1742ba013d5388b519f130a0c49b98",
@@ -107,6 +119,7 @@
   "messages/commander/20261122T0401Z_commander_to_admiral_ORDER_desk-b10-1-reply.md": "bc5582cd52b943a3cc6f3251284b7d602d846118e4f697675c92fd524d328e1e",
   "messages/commander/20261122T0434Z_commander_to_admiral_ORDER_if-it-is-just-my-name-that-is-fine-amend-rules-s.md": "c2aeb9103eb0088d3877960713b9e6f6c51d6b4cbcdb0dd4c1fc5054ac463b32",
   "messages/commander/20261122T0448Z_commander_to_all_ORDER_help-me-set-up-this-vps-ubuntu-environment-as-a-.md": "4787ad7173d2e2d430d2cd7c2ecd4665962d670472a05947c7e99b9bed85d1d5",
+  "messages/commander/20261122T0458Z_commander_to_freebuff_ORDER_when-you-need-me-ask-me-a-question-i-think-this-.md": "198621060ac55a7d032602a43b018d60c4be70ce1e46821692ecae89f7b98b81",
   "BRIDGE_RULES.md": "2cfb9ba326a1183717e4c2eee68a91b446024083a6d04cdd927d8672ca85ef77"
  }
 }
