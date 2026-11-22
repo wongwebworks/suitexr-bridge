@@ -19,6 +19,14 @@ Officers coordinate through files, so the Commander relays one line ("read your 
 | Freebuff | No-star Chief Engineer, on trial (CMD-2026-11-21-24) | `~\FreeBuffContributions\comms\outbox\`. The Admiral commits raw copies into `SuiteXR/comms/freebuff/` at integration, so git holds its record too | Disk (reads SuiteXR directly) |
 | Colonel Grok | Spatial-proof reviewer | Nowhere directly; the Admiral files raw copies in `SuiteXR/comms/grok/` | Cloud only: Drive export or paste |
 
+**"You" means the Commander, and only the Commander** (CMD-2026-11-21-42, PRN-27):
+- In every message, "you", "your" and "yours" refer to the Commander alone.
+- Every other officer is named, by name or title or both: Admiral Claude, General Gemini, Freebuff (Chief Engineer), Colonel Grok. Future officers are named the same way.
+- Write "General Gemini will re-measure it", not "you will re-measure it", even in a packet addressed to General Gemini.
+- Refer to yourself by name too ("the Admiral filed it") whenever "I" could be unclear in a relay.
+- Quoting someone's exact words keeps their own "you", inside quotation marks.
+- The Commander's personal names are private terms: write "the Commander".
+
 **Relays are raw (Grok's ask).** A relayed or copied message is filed exactly as received and marked `RELAYED` (by whom, when). Nothing is paraphrased under another officer's name. A summary is the summarising officer's own message, in its own outbox.
 
 **Future agents:**

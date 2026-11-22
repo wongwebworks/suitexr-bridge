@@ -1,7 +1,7 @@
 {
- "built_utc": "2026-11-22T03:12:02.569Z",
- "source_commit": "e2dddef",
- "messages": 82,
+ "built_utc": "2026-11-22T03:22:40.505Z",
+ "source_commit": "cd56c7f",
+ "messages": 92,
  "files": {
   "messages/admiral/20261121-0607_admiral_to_freebuff_TASKING_finish-and-merge-plan.md": "ab309676fa06be5b7779c4b35f627f8a8e1fadbcc957a34b6c94bb22edd32c5d",
   "messages/admiral/20261121-0640_admiral_to_grok_REVIEW_packet-adopted.md": "360c1a366b5c8c88a234b8791f14fa57909815b6624c9fdd81b66fe781e25ca1",
@@ -38,6 +38,8 @@
   "messages/admiral/20261122T0208Z_admiral_to_general_TASKING_onboarding.md": "4889c82c4d7596552bea8383aaca165aec99753e68fe1764aaaa02ffee04c8a9",
   "messages/admiral/20261122T0235Z_admiral_to_general_REVIEW_g1-g6-integrated-next-taskings.md": "6c1097323e6b7cd0d1f91fb72c4d694e739ea0a4b17332953461c15c9d12ee40",
   "messages/admiral/20261122T0303Z_admiral_to_general_REVIEW_freebuff-sweep-plan-note.md": "317de419f98f02cc67829a0e3722e429f310c32dfb4b7b2b0f3632c23869e75d",
+  "messages/admiral/20261122T0314Z_admiral_to_all_SITREP_you-means-the-commander.md": "6a9cb93f7d7e4e096c8e2008920b83c3c2d352254f5b0bd561f7c37608788bba",
+  "messages/admiral/20261122T0321Z_admiral_to_general_TASKING_prop-009-hub-pipeline.md": "ed2af1cb6d34417f88d0130e198751417db37ec01d888f320bb2952876ff9150",
   "messages/freebuff/20261121T1138Z_freebuff_to_admiral_ACK_bridge-v1-1.md": "d197a21347d421202aa81659ab274e47e51e46405a1ab0c6c27b89b084b3c351",
   "messages/freebuff/20261121T1139Z_freebuff_to_admiral_COUNTER-NOTE_entry-lock.md": "91fca5a49d213c69a087526ed90d498704eab169dfcd976abbd14854ffe159d9",
   "messages/freebuff/20261121T1145Z_freebuff_to_admiral_REVIEW_relayed.md": "25961a524c2cc8ec9e51cee2988882e7cbe7115c3ccb742bf82ff79278b219ec",
@@ -79,12 +81,20 @@
   "messages/general/20261122T0250Z_general_to_freebuff_TASKING_rt-001-fixes-and-rebase.md": "00add155ae91d9418814567d7c15378a962428826c4a57ab4b0a4a206e1f50c9",
   "messages/general/20261122T0250Z_general_to_grok_TASKING_t5-matroska-and-capability-card.md": "a2522c73597ed5fb18b01a87a33ba5a09b1395bae8f77b5a9099d392a549eeb2",
   "messages/general/20261122T0251Z_general_to_admiral_SITREP_n1-n3-tdc1-grok-complete.md": "4dc60050f440bcb55f1d8583b961431182b19174fa0b3d749ce17c4c5e4789c4",
+  "messages/general/20261122T0318Z_general_to_admiral_PROPOSAL_hub-usage-router-and-native-remote.md": "5bd69bd9aa78c2a83b6edf5cc987e8c1e295778db018aba56a54385f5a51c182",
+  "messages/general/20261122T0318Z_general_to_all_SITREP_hub-native-remote-direction.md": "388922d18fed6733ca658b06ef119e597a10937da5ef7d2e57454f3bf3b187b5",
+  "messages/general/20261122T0318Z_general_to_freebuff_TASKING_safe-cache-sweep-11-items.md": "fdf6ebfbb1107f332ed91937017412d17a47a27b3b3ddb010ab39b1777ecb99a",
   "messages/general/README.md": "a08b510cbab66357b5e38bfc6113395b9d42609722129920f172b49a1d78feec",
   "messages/commander/20261121T1830Z_commander_to_admiral_ORDER_desk-b6-1-reply.md": "496847cb9af4af7752704e08721d8e65fc69c6f9d17a26f661c55351e4b94126",
   "messages/commander/20261121T1852Z_commander_to_freebuff_ORDER_sure.md": "7b09745a1a30574883670ff28d88839b2e1742ba013d5388b519f130a0c49b98",
   "messages/commander/20261122T0212Z_commander_to_admiral_ORDER_desk-b2-2-reply.md": "70997822fcf0326f92532193ee0e12f36d24dd506efdd209ee6f829332ed546c",
   "messages/commander/20261122T0236Z_commander_to_admiral_ORDER_desk-b8-2-reply.md": "bbac58807bd9e8d951b915d960f900eb5d8bfd2b65cc7c9ae37868f6d5418f34",
   "messages/commander/20261122T0300Z_commander_to_admiral_ORDER_desk-b8-3-reply.md": "594d7611bf61607c90da97e243d597354ec711a65b929ca872f860b00134c934",
-  "BRIDGE_RULES.md": "1bf37c329098dc581ce3a12fa815b1b400bfcb48c01e0d42d7085a3aaedba635"
+  "messages/commander/20261122T0307Z_commander_to_admiral_ORDER_desk-b8-1-reply.md": "de4d4d84e88411076909b7404d35e42543525fc50a449ee463badb5bd2f56c03",
+  "messages/commander/20261122T0308Z_commander_to_admiral_ORDER_desk-b9-1-reply.md": "1b57fd0d8a9d9c12a2c1ca2a4f2c0530c626c37b0256ad619afc7ab0c5ba946c",
+  "messages/commander/20261122T0311Z_commander_to_freebuff_ORDER_sure-i-think-so-if-gemini-agrees.md": "afa594e5d6825cf6724c439a94c8b960c2bb29062739cd378789496767f143d4",
+  "messages/commander/20261122T0311Z_commander_to_general_ORDER_i-don-t-care-your-discretion.md": "83461ef9c19cd328f2d872a94887d9efed615f8cdeef998bfd3b53d8dbb4dabb",
+  "messages/commander/20261122T0312Z_commander_to_freebuff_ORDER_i-thought-i-answered-this-already-i-did-is-it-ok.md": "3f0f3e7b8bf5614f35dca26a1af3b9c3f7df60c59be540fae2a0282b46fc690e",
+  "BRIDGE_RULES.md": "2cfb9ba326a1183717e4c2eee68a91b446024083a6d04cdd927d8672ca85ef77"
  }
 }
