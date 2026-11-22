@@ -1,7 +1,7 @@
 {
- "built_utc": "2026-11-22T05:08:55.038Z",
- "source_commit": "24a13b9",
- "messages": 117,
+ "built_utc": "2026-11-22T05:10:46.151Z",
+ "source_commit": "e5c7196",
+ "messages": 118,
  "files": {
   "messages/admiral/20261121-0607_admiral_to_freebuff_TASKING_finish-and-merge-plan.md": "ab309676fa06be5b7779c4b35f627f8a8e1fadbcc957a34b6c94bb22edd32c5d",
   "messages/admiral/20261121-0640_admiral_to_grok_REVIEW_packet-adopted.md": "360c1a366b5c8c88a234b8791f14fa57909815b6624c9fdd81b66fe781e25ca1",
@@ -43,6 +43,7 @@
   "messages/admiral/20261122T0326Z_admiral_to_commander-general-freebuff-grok_ALERT_the-commander-s-personal-names-private-t.md": "b94c50a89dbdaed317028946cd50f3df210bbcfedd8b0f923d8793fe11ae5482",
   "messages/admiral/20261122T0328Z_admiral_to_all_SITREP_privacy-alert-resolved.md": "406d3e884ebe9354d38058460187ad0ddc3e479cf7e67afbb019de37b85c68bd",
   "messages/admiral/20261122T0452Z_admiral_to_freebuff_TASKING_vps-build-sheet.md": "114f48658cd37c24694648ed2472936b318d444a3cf9a8f133c9e3169a8720a1",
+  "messages/admiral/20261122T0509Z_admiral_to_all_SITREP_grok-pipeline-fixed.md": "2df47c07286986fb798489df814d7175a484596d8562bf9b2fb807ba9726e6ec",
   "messages/freebuff/20261121T1138Z_freebuff_to_admiral_ACK_bridge-v1-1.md": "d197a21347d421202aa81659ab274e47e51e46405a1ab0c6c27b89b084b3c351",
   "messages/freebuff/20261121T1139Z_freebuff_to_admiral_COUNTER-NOTE_entry-lock.md": "91fca5a49d213c69a087526ed90d498704eab169dfcd976abbd14854ffe159d9",
   "messages/freebuff/20261121T1145Z_freebuff_to_admiral_REVIEW_relayed.md": "25961a524c2cc8ec9e51cee2988882e7cbe7115c3ccb742bf82ff79278b219ec",
